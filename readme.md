@@ -1,7 +1,7 @@
 Tutorials
 ============
 
-Az alábbi linkek segítségével válasz ki, hogy merre szeretnél továbbmenni. Számos leírás található az aloldalakon. A közlekedést gyorsabbá tevő megoldást a hivatkozások jelentik.
+Az alábbi linkek segítségével válaszd ki, hogy merre szeretnél továbbmenni. Számos leírás található az aloldalakon. A közlekedést gyorsabbá tevő megoldást a hivatkozások jelentik.
 
 Programleírások
 ------------
