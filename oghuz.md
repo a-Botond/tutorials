@@ -1,3 +1,5 @@
+[< Főmenü](./readme.md)
+
 # Az Oguz Törzsek Három Élete: Átfogó Etnográfiai és Történelmi Jelentés
 ## Játékfejlesztéshez
 
