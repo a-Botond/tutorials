@@ -2,7 +2,7 @@
 
 ## **Bevezetés: Az Oguz Világ Kialakulása – A Törzsek és a Mítosz**
 
-Az oguz nép, egy nyugati török törzsszövetség 1, a 8\. században tűnt fel meghatározó erőként Közép-Ázsiában.1 Maga az "oguz" kifejezés etimológiája valószínűleg "törzset" vagy "törzsi szövetséget" jelent 2, amely egy "Nyíl klán" (Arrow clan) koncepciójára épülhetett, szimbolizálva a különböző rokonsági csoportok katonai és politikai egyesülését.4 Ez az identitás rendkívül képlékenynek és sikeresnek bizonyult; az iszlám felvételével párhuzamosan, a 13\. századra az oguz megnevezést fokozatosan felváltotta a "türkmén" (Turcoman) kifejezés 1, amely kezdetben az iszlám hitre tért oguzokat jelölte.2
+Az oguz nép, egy nyugati török törzsszövetség 1, a 8\. században tűnt fel meghatározó erőként Közép-Ázsiában.1 Maga az "oguz" kifejezés etimológiája valószínűleg "törzset" vagy "törzsi szövetséget" jelent 2, amely egy "Nyíl klán" (Arrow clan) koncepciójára épülhetett, szimbolizálva a különböző rokonsági csoportok katonai és politikai egyesülését.4 Ez az identitás rendkívül képlékenynek és sikeresnek bizonyult; az iszlám felvételével párhuzamosan, a 13\. századra az oguz megnevezést fokozatosan felváltotta a "türkmén" (Turcoman) kifejezés [[1]](#1), amely kezdetben az iszlám hitre tért oguzokat jelölte.2
 
 A törzsszövetség kohézióját és identitását egy erőteljes alapító mítosz, Oghuz Kán legendája biztosította.4 Ő a pre-iszlám korból származó török-türkmén irodalom egyik legfontosabb epikus alakja, aki a nemesség és a törzsek közötti rokonsági kapcsolatok mitikus megalapozójaként szolgált.4 A legenda szerint Oghuz Kán hat fia – Gün (Nap), Ay (Hold), Yildiz (Csillag), Kök (Ég), Tagh (Hegy) és Tengiz (Tenger) – 6 lett a nép ősapja.
 
@@ -262,7 +262,7 @@ A játék fő konfliktusai nemcsak külső, hanem mély belső ellentétekből i
 
 #### **Idézett munkák**
 
-1. Oghuz Turks \- Wikipedia, hozzáférés dátuma: november 16, 2025, [https://en.wikipedia.org/wiki/Oghuz\_Turks](https://en.wikipedia.org/wiki/Oghuz_Turks)  
+<a id="1" style="color: unset">1. Oghuz Turks</a> \- Wikipedia, hozzáférés dátuma: november 16, 2025, [https://en.wikipedia.org/wiki/Oghuz\_Turks](https://en.wikipedia.org/wiki/Oghuz_Turks)  
 2. Oghuz Yabgu State \- Wikipedia, hozzáférés dátuma: november 16, 2025, [https://en.wikipedia.org/wiki/Oghuz\_Yabgu\_State](https://en.wikipedia.org/wiki/Oghuz_Yabgu_State)  
 3. İlhan ŞAHİN \* The migration and settlement of Oghuz groups, who were also known as Turkmens in Anatolia, were closely related \- DergiPark, hozzáférés dátuma: november 16, 2025, [https://dergipark.org.tr/en/download/article-file/3798871](https://dergipark.org.tr/en/download/article-file/3798871)  
 4. What is the history of Oghuz? \- Quora, hozzáférés dátuma: november 16, 2025, [https://www.quora.com/What-is-the-history-of-Oghuz](https://www.quora.com/What-is-the-history-of-Oghuz)  
